@@ -1,0 +1,29 @@
+{
+  "name": "CategoryServiceV2",
+  "emitLegacyScripts": false,
+  
+  
+  "tree": {
+    "$ignoreUnknownInstances": true,
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "EasyTypeV2": {
+        "$className": "Folder",
+
+        "Tests": {
+          "$path": "src/Tests"
+        },
+        
+          "EasyTypeV2": {
+          "$path": "src/EasyTypeV2.luau",
+
+          "Dependencies": {
+            "$className":"Folder",
+            "$path": "Packages"
+          }
+        }
+      }
+    }
+  }
+}
