@@ -1,4 +1,13 @@
--- EasyType V2
+-- EasyType
+
+-- Version: 2.0
+
+--[[
+
+	Simplified and optimized
+
+]]--
+
 -- Written for performance
 --!strict
 
