@@ -1,5 +1,0 @@
-{
-    "luau-lsp.plugin.enabled": true,
-    "luau-lsp.platform.type": "roblox",
-    "luau-lsp.sourcemap.rojoProjectFile": "EasyType.project.json"
-}

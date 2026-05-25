@@ -1,4 +1,4 @@
-local EasyTypeV2 = require(script.Parent.Parent.EasyTypeV2)
+local EasyTypeV2 = require("../")
 
 local Object = setmetatable({}, {
 	__index = {
@@ -13,7 +13,7 @@ print(EasyTypeV2("Value"))
 -- returns cframe
 print(EasyTypeV2(CFrame.new()))
 
--- returns classname and type of objecy
+-- returns classname and type of object
 print(EasyTypeV2(Object))
 
 -- returns table

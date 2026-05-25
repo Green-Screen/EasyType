@@ -1,7 +1,5 @@
--- EasyType V 2
+-- EasyType V 2.0.2
 -- @Patriots8800
-
--- Version 2.0
 
 --!strict
 
