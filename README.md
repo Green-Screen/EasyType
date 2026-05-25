@@ -1,5 +1,5 @@
 # Easy Type
-### Current Version: V 2.0.2
+### Current Version: 2.0.7
 
 ## What is Easy Type?
 Easy type is a custom class and object type checker for luau that is built to work as a ordanary type checker and one for custom classes and objects.
@@ -18,5 +18,13 @@ Easy type is a custom class and object type checker for luau that is built to wo
 ### **Changelog:**
 
 -   Added to wally global
+
+
+## Installation:
+
+1. Download from [releases](https://github.com/Green-Screen/EasyType/releases) in this repository.
+2. [Wally](https://wally.run/package/green-screen/easytype?version=2.0.7).
+3. Clone this repository into your local repository with `git clone https://github.com/Green-Screen/EasyType.git`
+
 
 **_This module is still in testing and is not yet ready for production usage_**

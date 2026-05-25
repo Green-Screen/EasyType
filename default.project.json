@@ -1,20 +1,9 @@
 {
   "name": "EasyType",
   "emitLegacyScripts": false,
-  
+
   
   "tree": {
-    "$ignoreUnknownInstances": true,
-    "$className": "DataModel",
-
-    "ReplicatedStorage": {
-      "EasyType": {
-        "$className": "Folder",
-        
-          "EasyType": {
-          "$path": "src"
-        }
-      }
-    }
+    "$path": "src"
   }
 }
