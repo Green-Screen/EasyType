@@ -1,7 +1,9 @@
 [package]
-name = "cagur/categoryv2"
-version = "0.1.0"
-registry = "https://github.com/UpliftGames/wally-index"
+name = "patriots8800/easytype"
+description = "Custom type-checker for custom objects and classes"
+version = "2.0.2"
+license = "MIT"
 realm = "shared"
-
+registry = "https://github.com/Green-Screen/wally-index"
+repository = "https://github.com/Green-Screen/EasyType"
 [dependencies]
