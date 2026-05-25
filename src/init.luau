@@ -1,4 +1,4 @@
--- EasyType V 2.0.2
+-- EasyType V 2.0.7
 -- @Patriots8800
 
 --!strict
