@@ -23,7 +23,7 @@ Easy type is a custom class and object type checker for luau that is built to wo
 ## Installation:
 
 1. Download from [releases](https://github.com/Green-Screen/EasyType/releases) in this repository.
-2. [Wally](https://wally.run/package/green-screen/easytype?version=2.0.7).
+2. [Wally](https://wally.run/package/green-screen/easytype).
 3. Clone this repository into your local repository with `git clone https://github.com/Green-Screen/EasyType.git`
 
 
